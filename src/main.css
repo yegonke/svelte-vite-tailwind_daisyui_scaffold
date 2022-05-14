@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Averta';
+    src: url('fonts/averta/AvertaStd-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Averta';
+    src: url('fonts/averta/AvertaStd-Semibold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Averta';
+    src: url('fonts/averta/AvertaStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Averta';
+    src: url('fonts/averta/AvertaStd-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegeoUI';
+    src: url('fonts/segeoui/Segoe_UI.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegeoUI';
+    src: url('fonts/segeoui/Segoe_UI_Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
